@@ -1,0 +1,10 @@
+int a = 0
+int b = 1
+fun increment(int c){
+        return c+1
+}
+fun haha(){
+    var x = increment(1)
+    println(x)
+}
+haha()
